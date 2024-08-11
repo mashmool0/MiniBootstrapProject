@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  .user-list {
+    justify-content: center !important;
+    margin-top: 20px;
+  }
+}
+
+#pagin {
+  background-color: #212529;
+  border-color: gray;
+}
